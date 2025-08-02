@@ -52,4 +52,4 @@ Here are a few standout projects from the course so far:
 
 ## 🤖 Powered by Practice & AI
 
-All projects are built from scratch while learning, with AI (like ChatGPT) used to assist with structure, explanation, and clarity — not to shortcut the learning. Here is to building a future where AI  is accepeted as a reputable tool for learning, information, improving opertations.
+All projects are built from scratch while learning, with AI (like ChatGPT) used to assist with structure, explanation, and clarity — not to shortcut the learning. Here is to building a future where AI  is accepeted as a reputable tool for learning, information and improving opertations.
