@@ -12,5 +12,5 @@
 - Added emojis to the output 😉
 - Imported built-in Python modules (I believe these are called “libraries”) and used them within my code.
 
-### Reflection
+### 💭 Reflection
 This was another smooth section of the course - definitely more enjoyable when things go as expected. While I'm keen to solve real bugs later, minimizing errors for now helps me maintain momentum and complete the tutorial efficiently.
