@@ -50,6 +50,9 @@ Here are a few standout projects from the course so far:
 
 ---
 
-## 🤖 Powered by Practice & AI
+## 🤖 Built with Practice + AI Support
 
-All projects are built from scratch while learning, with AI (like ChatGPT) used to assist with structure, explanation, and clarity — not to shortcut the learning. Here is to building a future where AI  is accepeted as a reputable tool for learning, information and improving opertations.
+All code is written while learning from scratch, with AI tools (like ChatGPT) used to clarify concepts, debug issues, and explain best practices.  
+The goal is not to shortcut learning — but to accelerate it.
+
+> I believe AI is a valid, powerful tool for learning, problem-solving, and building real-world software.
