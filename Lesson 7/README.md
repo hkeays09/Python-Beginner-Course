@@ -18,4 +18,4 @@
 
 ### 💭 Reflection
 
-Another full section. Will continue on.
+Another section done. Will continue on.
