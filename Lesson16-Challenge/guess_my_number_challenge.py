@@ -75,7 +75,10 @@ def gmnc(name='PlayerOne'):
             return play_gmnc()
         else:
             print("Thanks for Playing!")
-            return
+            if __name__ == "__main__":
+                sys.exit(f"Bye {name}!")
+            else:
+                return
     return play_gmnc
 
 
