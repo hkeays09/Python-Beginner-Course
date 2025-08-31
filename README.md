@@ -9,10 +9,6 @@
 
 Here are the main projects I built during the course:
 
-- 🖨️ [**Hello World**](Lesson01-Setup)  
-  First Python script to test environment setup and print output.
-
-
 - 🕹️ [**Arcade Challenge**](Lesson16-Challenge)  
   Combines multiple games (`Rock, Paper, Scissors + Guess My Number`) into one terminal-based arcade.  
 
