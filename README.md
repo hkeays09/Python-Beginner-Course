@@ -9,31 +9,22 @@
 
 Here are the main projects I built during the course:
 
-- 🖨️ **Hello World**  
+- 🖨️ [**Hello World**](Lesson01-Setup)  
   First Python script to test environment setup and print output.
 
-- 🔢 **Guess My Number Challenge**  
-  Fun number-guessing game with win percentage tracking.  
 
-- 🎮 **Rock, Paper, Scissors Game (Enhanced)**  
-  Terminal-based game featuring multiple rounds, score tracking, and personalised player names via command line arguments.  
+- 🕹️ [**Arcade Challenge**](Lesson16-Challenge)  
+  Combines multiple games (`Rock, Paper, Scissors + Guess My Number`) into one terminal-based arcade.  
 
-- 🕹️ **Arcade Challenge**  
-  Combines multiple games (Rock, Paper, Scissors + Guess My Number) into one terminal-based arcade.  
+- 🏦 [**Bank Account OOP Project**](Lesson20-OOPProject/)  
+  Simple bank account system using classes and object-oriented programming.
 
-- 🐦 **Random Fun Fact Module**  
-  A custom module that stores fun facts and demonstrates importing without auto-running unless executed directly.  
-
-- 📂 **File Operations Practice**  
-  Read, write, append, and create files with Python’s `open()` and context managers, plus error handling with `try/except/finally`.  
-
-- 🌦️ **Lesson 23 – Final Project: Weather Web App**  
+- 🌦️ [**Lesson 23 – Final Project: Weather Web App**](https://github.com/hkeays09/python-weather)  
   A Flask-based web application that fetches live weather data from the OpenWeatherMap API and displays it in the browser.  
   - Secure API key management with `.env`  
   - Error handling for invalid/empty city names  
   - Templating with HTML + CSS  
   - Deployed locally using Waitress  
-
 ---
 
 ## 🧠 Core Skills Gained (So Far)
