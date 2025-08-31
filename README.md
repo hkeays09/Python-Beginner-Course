@@ -15,7 +15,7 @@ Here are the main projects I built during the course:
 - 🏦 [**Bank Account OOP Project**](Lesson20-OOPProject/)  
   Simple bank account system using classes and object-oriented programming.
 
-- 🌦️ [**Lesson 23 – Final Project: Weather Web App**](https://github.com/hkeays09/python-weather)  
+- 🌦️ [**Weather Web App**](https://github.com/hkeays09/python-weather)  
   A Flask-based web application that fetches live weather data from the OpenWeatherMap API and displays it in the browser.  
   - Secure API key management with `.env`  
   - Error handling for invalid/empty city names  
